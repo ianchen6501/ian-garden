@@ -1,5 +1,5 @@
 ---
-title: Algorithm - Tree
+title: Tree
 draft: false
 tags:
   - Algorithm
